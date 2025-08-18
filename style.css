@@ -1,8 +1,33 @@
+header{
+    background-image: url('Te Puia Resources/20240626_111923.jpg');
+    padding-top: 8px ;
+}
+
+nav{
+    text-align: center;
+    text-decoration: none;
+    padding-top: 5px ; 
+}
+
+a{
+    text-align: justify;
+    padding: 5px; 
+    color: black;
+    background-color: gray;
+    border-radius: 10px;
+}
+
 h1 {
     text-align: center;
+    text-decoration: underline;
+    padding-top: 15px ;
+    font-family: "Homemade Apple";
 }
 
 h3 {
     text-align: center;
-    font-style: italic
+    font-style: italic;
+    text-decoration: overline;
+    padding-bottom: 15px ;
+    font-family: "Homemade Apple";
 }
